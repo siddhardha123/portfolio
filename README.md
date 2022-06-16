@@ -1,3 +1,7 @@
+# checkout my portfolio
+open [https://siddhardha123.github.io/portfolio/] to view it in browser
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

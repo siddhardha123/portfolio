@@ -1,5 +1,5 @@
 # checkout my portfolio
-open [https://siddhardha123.github.io/portfolio/] to view it in browser
+https://siddhardha123.github.io/portfolio/
 
 
 # Getting Started with Create React App

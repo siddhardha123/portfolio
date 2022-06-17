@@ -21,30 +21,30 @@ const Navbar = () => {
       {/* {menu} */}
 
       <ul className="hidden md:flex">
-        <li className="hover:scale-110 duration-300">
+        <li className="hover:scale-110 duration-300 hover:text-pink-600">
           <Link activeClass="active" to="Home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li className="hover:scale-110 duration-100">
+        <li className="hover:scale-110 duration-100 hover:text-pink-600">
           {" "}
           <Link activeClass="active" to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li className="hover:scale-110 duration-100">
+        <li className="hover:scale-110 duration-100 hover:text-pink-600">
           {" "}
           <Link activeClass="active" to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li className="hover:scale-110 duration-100">
+        <li className="hover:scale-110 duration-100 hover:text-pink-600">
           {" "}
           <Link activeClass="active" to="work" smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li className="hover:scale-110 duration-100">
+        <li className="hover:scale-110 duration-100 hover:text-pink-600">
           {" "}
           <Link activeClass="active" to="contact" smooth={true} duration={500}>
             Contact

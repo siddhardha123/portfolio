@@ -11,7 +11,7 @@ const Home = () => {
           Siddhardha varma
         </h1>
         <h2 className="text-4xl text-[#8892b0] sm:text-7xl">
-          I am a FrontEnd developer
+          I am a Full stack developer 
         </h2>
         <p className="sm:text-xl max-w-[700px] text-[#ccd6f6] py-5">
           A passionate engineering student looking for an opportunity to solve real world problems. Currently exploring the most rapidly evolving technologies in the web3 space

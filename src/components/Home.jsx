@@ -14,9 +14,7 @@ const Home = () => {
           I am a FrontEnd developer
         </h2>
         <p className="sm:text-xl max-w-[700px] text-[#ccd6f6] py-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Id commodi,
-          repudiandae, temporibus tenetur ad totam nisi velit modi sed officiis
-          repellendus saepe blanditiis impedit quod?
+          A passionate engineering student looking for an opportunity to solve real world problems. Currently exploring the most rapidly evolving technologies in the web3 space
         </p>
         <div>
           <button className="text-xl text-white px-6 py-3 mt-2 mb-2 flex items-center border-2 border-pink-600 bg-pink-600 rounded-md  hover:bg-black hover:border-pink-600">

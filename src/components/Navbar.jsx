@@ -50,6 +50,7 @@ const Navbar = () => {
             Contact
           </Link>
         </li>
+
       </ul>
 
       {/* {hamburger} */}

@@ -25,20 +25,20 @@ const Contact = () => {
           name="name"
           id=""
           placeholder="Name"
-          className="px-1 py-2 bg-[#ffffff]"
+          className="px-1 py-2 bg-[#ffffff] rounded-sm"
         />
         <input
           type="email"
           name="email"
           id=""
           placeholder="Email"
-          className="my-2 px-1 py-2 bg-[#ffffff]"
+          className="my-2 px-1 py-2 bg-[#ffffff] rounded-sm"
         />
         <textarea
           name="message"
           id=""
           rows="10"
-          className="bg-[#ffffff] px-1 py-2 text-black"
+          className="bg-[#ffffff] px-1 py-2 text-black rounded-sm"
           placeholder="Message"
         ></textarea>
         <button className="text-white border bg-pink-600 border-pink-600 hover:bg-black px-4 py-3 my-8 mx-auto rounded-md flex items-center">

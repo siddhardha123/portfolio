@@ -1,17 +1,18 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
+import Type from "./Type";
 const Home = () => {
   return (
     <div name="Home" className="w-full h-screen bg-[#08192f]">
       {/* container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col  justify-center h-full">
-        <p className="text-pink-600 text-xl">Hi my name is</p>
+        <p className="text-pink-600 text-xl">Hey there, this is</p>
         <h1 className="text-4xl text-[#ccd6f6]   sm:text-7xl">
           Siddhardha varma
         </h1>
-        <h2 className="text-4xl text-[#8892b0] sm:text-7xl">
-          I am a Full stack developer 
+        <h2 className="text-4xl text-[#8892b0] sm:text-5xl">
+          <Type />
         </h2>
         <p className="sm:text-xl max-w-[700px] text-[#ccd6f6] py-5">
           A passionate engineering student looking for an opportunity to solve real world problems. Currently exploring the most rapidly evolving technologies in the web3 space
